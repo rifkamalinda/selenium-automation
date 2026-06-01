@@ -1,0 +1,6 @@
+/target/
+/CSVFile/*.csv
+/test-output/*.*
+/har/*.har
+*.har
+/output/
